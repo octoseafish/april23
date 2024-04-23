@@ -9,3 +9,6 @@ dragging image to readme window:
 
 manual/coded addition of image
 ![trigger fish](https://github.com/octoseafish/april23/blob/main/fish.jpg)
+
+
+This is a new line in the readme file
